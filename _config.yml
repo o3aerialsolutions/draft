@@ -29,8 +29,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : 
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins             : []
   
 
 # Conversion
@@ -72,4 +71,4 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 # Themes
-  remote_theme: pages-themes/cayman@v0.2.0
+  theme             : cayman

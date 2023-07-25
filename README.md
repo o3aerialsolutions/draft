@@ -4,6 +4,7 @@
   <h1>Welcome to O3 Aerial Solutions</h1>
   <p>This site is currently under construction</p>
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+  <img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
 <!--  <img src="https://gifer.com/embed/SpxP" /> -->
 <!--  <img src="https://pdobrien3.github.io/assets/SpxP.gif" /> -->
 <!--  ![Drone Image](/pdobrien3.github.io/assets/SpxP.gif)  -->

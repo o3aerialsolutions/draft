@@ -5,7 +5,8 @@
   <p>This site is currently under construction</p>
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
   <img src="https://gifer.com/embed/SpxP" />
-  ![Drone Image](/pdobrien3.github.io/docs/assets/SpxP.gif)
+  ![Drone Image](/pdobrien3.github.io/assets/SpxP.gif)
+  ![Book logo](/least-github-pages/assets/logo.png)
 </body>
 
 </html>

@@ -7,8 +7,8 @@ logo: https://o3aerialsolutions.github.io/draft/docs/assets/o3.png
 show_downloads: false
 ## Change URLs
 ## {% if site.github.is_project_page %}
-##        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-##        {% endif %}
+## <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+## {% endif %}
 github:
   repository_url: https://o3aerialsolutions.github.io/draft
   another_url: www.google.com

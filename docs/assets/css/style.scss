@@ -1,3 +1,7 @@
 ---
 ---
 @import "{{ site.theme }}";
+footer {
+    font: unset;
+    color: #000000;
+}

@@ -1,6 +1,7 @@
 ---
 ---
 @import "{{ site.theme }}";
+$max-width:1440px;
 header {
   img {
     border-radius: 50%;

@@ -7,7 +7,7 @@
   <p> If you have any questions, please call me at 704-614-7102</p>
   <p> or e-mail at dan@aerialsolutions.com </p>
   
-  <img src="docs/assets/SpxP.gif" alt="hi" class="inline"/>
+  <img src="assets/SpxP.gif" alt="sUAS" class="inline"/>
 
 </body>
 

@@ -1,7 +1,7 @@
 <html>
 
 <body>
-  <h1>Test</h1>
+  <h1>About</h1>
   <hr>
   <p>This site is currently under construction</p>
   <p> If you have any questions, please call me at 704-614-7102</p>
